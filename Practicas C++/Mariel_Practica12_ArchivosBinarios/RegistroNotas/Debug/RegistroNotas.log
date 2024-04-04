@@ -1,0 +1,4 @@
+﻿  RegistroNotas.cpp
+C:\Users\marie\Desktop\Mariel_Practica12_ArchivosBinarios\RegistroNotas\funciones.h(143,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\marie\Desktop\Mariel_Practica12_ArchivosBinarios\RegistroNotas\RegistroNotas.cpp(51,7): warning C4553: '==': result of expression not used; did you intend '='?
+  RegistroNotas.vcxproj -> C:\Users\marie\Desktop\Mariel_Practica12_ArchivosBinarios\Debug\RegistroNotas.exe
