@@ -1,0 +1,12 @@
+2
+
+mariel jjaskjkjsjkhskhakshks
+
+
+	 ------Modificadores ------- 
+
+El numero base diez es: 15
+El numero en octal es: 17
+El numero en hexadecimal es: f
+La base actual del numero es: 0xf
+Convirtiendo a Mayusculas: 0XF

@@ -1,0 +1,3 @@
+	Este es el texto que se va a almacernar en el archivo
+	Autor: Mariel Rojas
+	Derechos Reservados 2022
